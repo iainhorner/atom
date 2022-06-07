@@ -1,0 +1,12 @@
+UnitTestProject/bin/
+.vs/GameServerPoller/v16/
+DataLayer/obj/
+GameServerPoller/bin/
+GameServerPoller/obj/
+LogicLayer/bin/
+LogicLayer/obj/
+DataLayer/bin/
+UnitTestProject/obj/
+.vs/GameServerPoller/DesignTimeBuild/
+obj/
+bin/
